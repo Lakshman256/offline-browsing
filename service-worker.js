@@ -4,6 +4,7 @@ var urlsToCache = [
   '/index.html',
   '/styles.css',
   '/main.js'
+  '/images/ganesh.jpg'
 ];
 
 self.addEventListener('install', function(event) {
