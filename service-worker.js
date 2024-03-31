@@ -3,7 +3,7 @@ var urlsToCache = [
   '/',
   '/index.html',
   '/styles.css',
-  '/main.js'
+  '/main.js', // Added comma here
   '/images/ganesh.jpg'
 ];
 
